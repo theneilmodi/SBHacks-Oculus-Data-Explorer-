@@ -1,7 +1,8 @@
 # SBHacks-Oculus-Data-Explorer-
 Top 5 SBHacks - Data Visualization Hack
 
-Worked with James Vaughan (www.github.com/jamesbvaughan) at SBHacks (http://www.ucsbhacks.com/)
+Worked with James Vaughan (www.github.com/jamesbvaughan) 
+at SBHacks (http://www.ucsbhacks.com/)
 
 ##Summary
 What we've done is built a glimpse into the future of big data and virtual reality. We will need new, innovative ways to visualize and make sense of such immense data, Data Explorer is definitely one of those tools.
